@@ -1,0 +1,50 @@
+var a = 5
+var b = 2
+var c = a + b
+var d = 8
+var e = a + b + d
+var f = d - a
+var g = d / b
+var h = a * d
+var i = a + b * d
+console.log("b:n arvo on: ", b)
+console.log("c:n arvo on: ", c)
+console.log("d:n arvo on: ", d)
+console.log("e:n arvo on: ", e)
+console.log("f:n arvo on: ", f)
+console.log("g:n arvo on: ", g)
+console.log("h:n arvo on: ", h)
+console.log("i:n arvo on: ", i)
+console.log("A:n arvo on: ", a)
+var j = ("  * ")
+console.log("j:n arvo on: ", j)
+var k = (" *** ")
+console.log("k:n arvo on: ",k)
+var l = ("***** ")
+console.log("L:n arvo on: ", l)
+var m = ("  * ")
+var o = ("     ****** ")
+console.log("m:n arvo on: ", m)
+var p = ("   ********* ")
+var r = ("     *      * ")
+var s = ("      *      * ")
+var t = ("      ****** ")
+console.log("o:n arvo on: ", o)
+console.log("p:n arvo on: ", p)
+console.log("t:n arvo on: ", t)
+console.log("r:n arvo on: ", r)
+console.log("s:n arvo on ", s)
+var u =("     *       * ")
+var v =("    *         * ")
+var y =("    *         * ")
+var ä =("     *       * ")
+var x =("      ******* ")
+var z =("      *     * ")
+var ö =("    ***     ***  ")
+console.log("u:n arvo on: ", u)
+console.log("v:n arvo on: ", v)
+console.log("y:n arvo on: ", y)
+console.log("ä:n arvo on: ", ä)
+console.log("x:n arvo on: ", x)
+console.log("z:n arvo on: ", z)
+console.log("ö:n arvo on: ", z)
